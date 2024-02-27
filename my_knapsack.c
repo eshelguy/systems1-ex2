@@ -47,7 +47,6 @@ int main() {
             printf(" %c", names[i]);
         }
     }
-    printf("\n");
 
     return 0;
 }
